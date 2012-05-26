@@ -3,7 +3,7 @@
  * DokuWiki Plugin blextra (Helper Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author  Bernard Ladenthin (SystemhouseSoftware) <bernardladenthin@systemhousesoftware.com>
+ * @author  Bernard Ladenthin <bernard@ladenthin.net>
  */
 
 // must be run within Dokuwiki
@@ -17,8 +17,8 @@ class helper_plugin_blextra extends DokuWiki_Plugin {
 
 	function getInfo() {
 		return array('author' => 'Bernard Ladenthin (SystemhouseSoftware)',
-					 'email'  => 'bernardladenthin@systemhousesoftware.com',
-					 'date'   => '2011-08-22',
+					 'email'  => 'bernard@ladenthin.net',
+					 'date'   => '2012-05-26',
 					 'name'   => 'blextra Plugin',
 					 'desc'   => 'Provide functions for simple template creation',
 					 'url'    => 'http://www.dokuwiki.org/plugin:blextra');

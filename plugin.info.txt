@@ -1,7 +1,7 @@
 base   blextra
-author Bernard Ladenthin (SystemhouseSoftware)
-email  bernardladenthin@systemhousesoftware.com
-date   2011-08-22
+author Bernard Ladenthin
+email  bernard@ladenthin.net
+date   2012-05-26
 name   blextra plugin
 desc   Provide functions for simple template creation
 url    http://www.dokuwiki.org/plugin:blextra
